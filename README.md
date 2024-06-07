@@ -1,39 +1,50 @@
 Privacy Policy for Updog EMV
-Effective Date: June 6, 2024
+Effective Date: June 7, 2024
 
-1. Introduction
+Updog Strategies, LLC
+Effective Date: June 7, 2024
+Updog Strategies, LLC ("we," "us," "our") values your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Earned Media Value calculator app (the "App"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the App.
 
-Welcome to the Updog EMV app ("we", "our", "us"). We are committed to protecting your privacy and ensuring your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information when you use our app.
+1. Information We Collect
+Personal Data
 
-2. Information We Collect
+We do not collect any personal data through the App.
 
-We do not collect any personally identifiable information (PII) or personal data from users of this app. The app operates without requiring you to provide any personal information.
+Non-Personal Data
 
-3. Usage Data
+We may collect non-personal information about users whenever they interact with the App. This non-personal information may include the type of mobile device, the unique device ID, the IP address, the operating system, the Internet service providers, and other similar information.
 
-The app does not collect, store, or share any usage data. All calculations and interactions occur locally on your device.
+2. How We Use Your Information
+We do not collect personal data; hence, we do not use your personal information in any way.
 
-4. Third-Party Services
+3. Data Storage and Security
+Local Storage
 
-Our app does not use any third-party services that collect or process user data.
+All data entered into the App, including campaign information, outlet details, and history, is stored locally on your device. We do not transmit this data to our servers or any third-party servers.
 
-5. Security
+Security
 
-We are committed to ensuring that your information is secure. Since our app does not collect or store personal data, there are no security risks associated with data breaches or unauthorized access to your personal information.
+We implement appropriate security measures to protect your data stored locally on your device. However, please note that no method of electronic storage is 100% secure, and we cannot guarantee absolute security.
 
-6. Changes to This Privacy Policy
+4. Sharing Your Information
+We do not sell, trade, or otherwise transfer to outside parties any of your information. We do not collect personal information, so there is no personal data to share.
 
+5. Third-Party Services
+The App does not use any third-party services that collect, monitor, or analyze user data.
+
+6. Children's Privacy
+Our App does not address anyone under the age of 13. We do not knowingly collect personal data from children under 13. If we become aware that we have inadvertently received personal data from a child under the age of 13, we will delete such information from our records.
+
+7. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-7. Contact Us
+8. Your Consent
+By using our App, you consent to our Privacy Policy.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
 
 Updog Strategies, LLC
 Email: contact@updogstrategies.com
 
-By using our app, you agree to the terms of this Privacy Policy.
-
-8. Conclusion
-
-Thank you for using the Updog EMV app. We are committed to providing a safe and secure experience for all users.
+Thank you for using our App!
