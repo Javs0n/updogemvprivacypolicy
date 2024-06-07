@@ -29,7 +29,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Updog Communications LLC
+Updog Strategies, LLC
 Email: contact@updogstrategies.com
 
 By using our app, you agree to the terms of this Privacy Policy.
